@@ -1,6 +1,9 @@
 # About me
 My name is Kirill i'm a 22 year old developer from Russia.
 
+## Education
+RTU Mirea Software engineering
+
 ## Skills
 * Node.js (express, nest.js)
 * Python
